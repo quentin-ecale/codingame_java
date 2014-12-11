@@ -1,4 +1,4 @@
-package java.com.condingame.ragnarokPowerofthor;
+package java.com.codingame.ragnarokPowerofthor;
 
 import java.util.*;
 import java.io.*;
